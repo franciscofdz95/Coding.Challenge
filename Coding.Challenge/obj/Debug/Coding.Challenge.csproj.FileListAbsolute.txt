@@ -1,0 +1,6 @@
+C:\Users\fflore1\source\repos\Coding.Challenge\Coding.Challenge\bin\Debug\Coding.Challenge.exe.config
+C:\Users\fflore1\source\repos\Coding.Challenge\Coding.Challenge\bin\Debug\Coding.Challenge.exe
+C:\Users\fflore1\source\repos\Coding.Challenge\Coding.Challenge\bin\Debug\Coding.Challenge.pdb
+C:\Users\fflore1\source\repos\Coding.Challenge\Coding.Challenge\obj\Debug\Coding.Challenge.csproj.CoreCompileInputs.cache
+C:\Users\fflore1\source\repos\Coding.Challenge\Coding.Challenge\obj\Debug\Coding.Challenge.exe
+C:\Users\fflore1\source\repos\Coding.Challenge\Coding.Challenge\obj\Debug\Coding.Challenge.pdb
